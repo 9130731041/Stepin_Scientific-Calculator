@@ -51,21 +51,21 @@ SWOT Analysis
    
    4W's and 1'H
    
-   Who
+  * Who
   Any user can use this project for performing calculations quickly.
    
-   What
+   *What
    For performing the below operations:-
      Arthimetic Operations
      Other Operations like calculating power, square root and factorial.
    
-   When 
+   *When 
    User can use at any time for performing calculations.
    
-   Where
+   *Where
     This Project can be used by the users at anywhere with a computer having windows or linux Operating system.
     
-   How
+   *How
    By choosing the correct choice number for the operation to be performed.The user will be getting the result ouptut on the display without having knowledge on C or any other        programming.
    
    
