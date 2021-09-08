@@ -1,3 +1,3 @@
-# Stepin_Scientific-Calculator
-https://www.code-inspector.com/project/27915/score/svg
-https://www.code-inspector.com/project/27915/status/svg
+<a href="https://frontend.code-inspector.com/public/user/github/9130731041">
+   <img src="https://code-inspector.com/public/badge/user/github/9130731041?style=light" alt="code inspector badge" />
+</a>
